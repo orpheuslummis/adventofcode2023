@@ -1,4 +1,4 @@
-import «Adventofcode2023»
+import AOC
 
-def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+def main : IO Unit := do
+  day1a
